@@ -67,6 +67,7 @@ public class BaseTest {
 		String browserName=fileUtility.readDataFromePropertyFile("browserName");
 		String url=fileUtility.readDataFromePropertyFile("url");
 		
+		
 		//String url=System.getProperty("url");//to give parameters from cmd
 		//String browserName=System.getProperty("browser");//if you want to execute from md and oass para from cmd then write this 2 lines or comment these
 		
